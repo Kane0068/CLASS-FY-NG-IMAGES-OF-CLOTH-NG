@@ -1,1 +1,1 @@
-# CLASS-FY-NG-IMAGES-OF-CLOTH-NG
+classifying-images-of-clothing
